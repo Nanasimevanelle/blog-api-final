@@ -18,8 +18,8 @@ Les articles sont stockés dans une base de données SQLite et l’API est docum
 1. Cloner le dépôt :
 
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-depot.git
-cd nom-du-depot
+git clone https://github.com/Nanasimevanelle/blog-api-final.git
+cd blog-api-final
 
 2. installer les dependances:
 
